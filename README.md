@@ -32,3 +32,4 @@ online video calls.
 * Frontend: Android Studio
 * Backend: Flask
 * AI model: Teachable Machine, Ultralytics YOLOv8
+* The dataset for training AI model is from: https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images?resource=download
